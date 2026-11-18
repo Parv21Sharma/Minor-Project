@@ -1,6 +1,7 @@
 streamlit
 tensorflow
 xgboost
+scikit-learn
 opencv-python-headless
 pandas
 pillow
