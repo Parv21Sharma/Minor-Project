@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+xgboost
+opencv-python-headless
+pandas
+pillow
+numpy
+huggingface-hub
